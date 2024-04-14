@@ -1,6 +1,6 @@
 ---
 title: 'Peer-graded Assignment: R Markdown and Leaflet'
-author: "Bharathi Subramaniam"
+author: "George A. Sarpong"
 date: "April 14, 2024"
 output: html_document
 ---
